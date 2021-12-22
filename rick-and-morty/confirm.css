@@ -1,0 +1,52 @@
+body{
+    background-image: url("resources/imgs/background.png");
+    background-color: black;
+    font-family: "Creepster", serif;
+
+}
+
+#top-logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#buttworld {
+    display: block;
+    position: relative;
+    left: 20%;
+    margin-top: 5%;
+}
+
+#buttworldtext{
+    color: #14B0C9;
+    text-shadow: -1px -1px 0 #C9DC5D, 1px -1px 0 #C9DC5D, -1px 1px 0 #C9DC5D, 1px 1px 0 #C9DC5D;
+    font-family: 'Creepster', serif;
+    font-size: 40px;
+}
+
+#image1{
+    display: block;
+    position: relative;
+    left: 39%;
+  }
+
+  #message {
+      color: white;
+      text-align: center;
+  }
+
+  #message2 {
+    color: white;
+    text-align: center;
+  }
+
+  #portalButton{
+    display: block;
+    position: relative;
+    left: 42%;
+    width: 15px;
+  }
